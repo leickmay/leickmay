@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-42 Projects
+### 42 Projects
 
-ft_transcendence [![leickmay's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2467101)](https://github.com/JaeSeoKim/badge42)
+ - ft_transcendence 
+[![leickmay's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2467101)](https://github.com/JaeSeoKim/badge42)
 
-ft_irc [![leickmay's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2436466)](https://github.com/JaeSeoKim/badge42)
+ - ft_irc 
+[![leickmay's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2436466)](https://github.com/JaeSeoKim/badge42)
 
