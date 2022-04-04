@@ -22,9 +22,40 @@ Here are some ideas to get you started:
 
 ### 42 Projects
 
- - ft_transcendence 
+ - Ft_transcendence
+ 
 [![leickmay's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2467101)](https://github.com/JaeSeoKim/badge42)
 
- - ft_irc 
+ - Ft_irc 
+
 [![leickmay's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2436466)](https://github.com/JaeSeoKim/badge42)
+
+ - Ft_containers
+
+[![leickmay's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2347796)](https://github.com/JaeSeoKim/badge42)
+
+ - Inception
+
+[![leickmay's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2171229)](https://github.com/JaeSeoKim/badge42)
+
+ - CPP modules
+
+[![leickmay's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2286030)](https://github.com/JaeSeoKim/badge42)
+
+ - Philosophers
+
+[![leickmay's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2189672)](https://github.com/JaeSeoKim/badge42)
+
+ - Minishell
+
+[![leickmay's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2141544)](https://github.com/JaeSeoKim/badge42)
+
+ - Push_swap
+
+[![leickmay's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2130945)](https://github.com/JaeSeoKim/badge42)
+
+ - Libasm
+
+[![leickmay's 42 libasm Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2130206)](https://github.com/JaeSeoKim/badge42)
+
 
