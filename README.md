@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![Leickmay's 42 stats](https://badge42.herokuapp.com/api/stats/leickmay)](https://github.com/JaeSeoKim/badge42)
--->
+
+42 Projects
+
+[![leickmay's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2467101)](https://github.com/JaeSeoKim/badge42)
+
+[![leickmay's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2436466)](https://github.com/JaeSeoKim/badge42)
 
