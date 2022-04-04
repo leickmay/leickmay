@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 [![leickmay's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2050505)](https://github.com/JaeSeoKim/badge42)
 
  - Libft
-
+ 
 [![leickmay's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2040089)](https://github.com/JaeSeoKim/badge42)
 
 
