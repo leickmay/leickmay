@@ -8,10 +8,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ft_transcendence
-- 🌱 I’m currently learning javascript / typescript
+
+- 🌱 I’m currently learning C# / .NET
 
 <!--
+- 🔭 I’m currently working on ft_transcendence
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
