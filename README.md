@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 [![leickmay's 42 stats](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/stats?cursusId=21&coalitionId=49)](https://github.com/JaeSeoKim/badge42)
-
+-->
 <!--
 **leickmay/leickmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning C# / .NET
+
+- 42 Member, common core completed
+
+- Intern at Hardis Group Lyon agency as a C# / .Net software engineer
 
 <!--
 - 🔭 I’m currently working on ft_transcendence
@@ -20,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### 42 Projects
 
  - Ft_transcendence
@@ -82,6 +86,6 @@ Here are some ideas to get you started:
  - Libft
  
 [![leickmay's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1kyhi2g007609mfwt39p12o/project/2040089)](https://github.com/JaeSeoKim/badge42)
-
+-->
 
 
