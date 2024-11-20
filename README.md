@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning .NET / Angular
+- 🌱 I’m currently working on .NET / Angular
 
-- 42 Member, common core completed
+- 42 Alumni
 
-- Apprentice at Hardis Group Lyon agency as a developer
+- Software Engineer at Hardis Group Lyon agency 
 
 <!--
 - 🔭 I’m currently working on ft_transcendence
