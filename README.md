@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently working on .NET / Angular
+- 🌱 My current stack is .NET / Angular
 
 - 42 Alumni
 
